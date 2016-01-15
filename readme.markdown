@@ -1,6 +1,6 @@
 ## sum-of-multiples
 
-[![build status](http://img.shields.io/travis/jekrb/sum-of-multiples.svg?style=flat)](http://travis-ci.org/jekrb/l33tsp34k-stream)
+[![build status](http://img.shields.io/travis/jekrb/sum-of-multiples.svg?style=flat)](http://travis-ci.org/jekrb/sum-of-multiples)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
