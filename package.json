@@ -1,0 +1,28 @@
+{
+  "name": "sum-of-multiples",
+  "version": "1.0.0",
+  "description": "Finds the sum of all multiples of numbers in an array below a maximum number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "sum",
+    "multiples",
+    "natural",
+    "numbers",
+    "max",
+    "project",
+    "euler"
+  ],
+  "author": "Jacob Burden",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jekrb/sum-of-multiples.git"
+  },
+  "homepage": "https://github.com/jekrb/sum-of-multiples"
+}
